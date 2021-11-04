@@ -6,4 +6,4 @@
 | CSE713 | &check; | &cross; | http://github.com/maifeeulasad |
 | CSE715 | &check; | &cross; | http://github.com/maifeeulasad |
 | CSE717 | &check; | &cross; | http://github.com/maifeeulasad |
-| CSE719 | &cross; | &cross; | - |
+| CSE719 | &check; | &cross; | http://github.com/maifeeulasad |
